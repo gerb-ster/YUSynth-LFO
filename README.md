@@ -1,3 +1,3 @@
-# Project Name
+# YUSynth LFO
 
-some description about this project goes here.
+http://yusynth.net/Modular/EN/LFO/VC-LFO2.html
