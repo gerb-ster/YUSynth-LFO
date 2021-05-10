@@ -11,6 +11,13 @@ I've made some modifications:
 
 In the YUSynth design there was 1 unused op-amp section; I've used that one to invert the saw into an extra ramp output.
 
-
 The original design:
 http://yusynth.net/Modular/EN/LFO/VC-LFO2.html
+
+
+## Status
+
+- done: first schematic & board design
+- done: breadboard and test
+- todo: design frontpanel
+- todo: order PCB and build prototype
