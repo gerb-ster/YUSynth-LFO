@@ -15,9 +15,9 @@ The original design:
 http://yusynth.net/Modular/EN/LFO/VC-LFO2.html
 
 
-## Status
+## Status: Work in Progress
 
 - done: first schematic & board design
 - done: breadboard and test
-- todo: design frontpanel
+- done: design frontpanel
 - todo: order PCB and build prototype
